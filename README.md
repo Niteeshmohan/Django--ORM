@@ -12,7 +12,7 @@ To develop a Django application to store and retrieve data from a database using
 clone the problem from github
 
 ### STEP 2:
-create a new app
+Create a new app
 
 ### STEP 3:
 Enter the code for admin.py and model.py
