@@ -8,7 +8,6 @@ To develop a Django application to store and retrieve data from a database using
 ![Entity Relationship Diagram](./ER.png)
 
 ## DESIGN STEPS
-
 ### STEP 1:
 clone the problem from github
 
@@ -50,4 +49,4 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ## RESULT
 
-Program executed successfully
+Program executed successfully.
